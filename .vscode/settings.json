@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "condition_variable": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}
