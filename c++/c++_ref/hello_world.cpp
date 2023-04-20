@@ -1,6 +1,3 @@
-// 以下のコマンドで実行可能
-// $ g++ -O2 -std=c++14 $fileName && ./a.out
-
 //標準ライブラリのインクルード
 #include <bits/stdc++.h>
 #include <iostream>
